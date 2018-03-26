@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shared test suite for Entity Framework Core database providers.",
   "packOptions": {
     "tags": [
@@ -20,9 +20,9 @@
   },
   "dependencies": {
     "System.Runtime.InteropServices.RuntimeInformation": "4.0.0",
-    "Microsoft.EntityFrameworkCore.InMemory": "1.0.6",
+    "Microsoft.EntityFrameworkCore.InMemory": "1.0.7",
     "Microsoft.Extensions.RuntimeEnvironment.Sources": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "type": "build"
     },
     "xunit": "2.1.0"
